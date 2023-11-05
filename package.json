@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "tilt.js": "^1.2.1"
+  },
+  "devDependencies": {
+    "direction-reveal": "^2.0.2"
+  }
+}
