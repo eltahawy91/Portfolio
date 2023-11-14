@@ -218,7 +218,13 @@ h6,
     color: var(--primary);
   }
 }
-
+@media (max-width:767px) {
+  .navbar-brand img
+  {
+    width: 20% !important;
+  }
+  
+}
 /*** Carousel ***/
 .carousel-caption {
   top: 100px;
