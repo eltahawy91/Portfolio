@@ -1,7 +1,7 @@
 let dataPortfolio = [
   {
     id: "1",
-    image: "./img/projects/Crystal-Template.png",
+    image: "./img/projects/Crystal-Template.jpg",
     nameProject: "Crystal Website",
     category: "Web",
     link: "https://6546247c431186752e2dfc02--peppy-pudding-9b0ad7.netlify.app/",
@@ -88,7 +88,7 @@ let dataPortfolio = [
   },
   {
     id: "13",
-    image: "./img/projects/cover.png",
+    image: "./img/projects/cover.jpg",
     nameProject: "Modern Dashboard",
     category: "Ui/Ux",
     link: "https://www.behance.net/gallery/183844719/Modern-Dashboard",
