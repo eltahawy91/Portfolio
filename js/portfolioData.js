@@ -37,61 +37,19 @@ let dataPortfolio = [
   },
   {
     id: "6",
-    image: "./img/projects/e-Shop-a-Ecommerce-Online-Shopping-Category-Flat-Bootstrap-Responsive-Website-Template-Home-w3layouts.png",
+    image:
+      "./img/projects/e-Shop-a-Ecommerce-Online-Shopping-Category-Flat-Bootstrap-Responsive-Website-Template-Home-w3layouts.png",
     nameProject: "E_Commerce Website",
     category: "Web",
     link: "https://65462a8cdf00757992700933--guileless-paletas-ab8774.netlify.app/",
   },
- 
+
   {
     id: "7",
-    image: "./img/projects/appgls.png",
-    nameProject: "view glasses App",
+    image: "./img/projects/Pustok-e-commerce.png",
+    nameProject: "e_commerce app for book",
     category: "Ui/Ux",
-    link: "https://www.behance.net/gallery/133377127/Design-for-view-glasses",
-  },
-  {
-    id: "8",
-    image: "./img/projects/videocall.png",
-    nameProject: "video-call-chat",
-    category: "Ui/Ux",
-    link: "https://www.behance.net/gallery/133986251/vidio-call-chat",
-  },
-  
-  {
-    id: "9",
-    image: "./img/projects/medicare.png",
-    nameProject: "Medicare e_commerce",
-    category: "Ui/Ux",
-    link: "https://www.behance.net/gallery/168303297/E-Commerce-for-Pharamcies",
-  },
-  {
-    id: "10",
-    image: "./img/projects/banner1.jpg",
-    nameProject: "Medicare e_commerce",
-    category: "identification",
-    // link: "https://www.behance.net/gallery/168303297/E-Commerce-for-Pharamcies",
-  },
-  {
-    id: "11",
-    image: "./img/projects/7656932.jpg",
-    nameProject: "Medicare e_commerce",
-    category: "identification",
-    // link: "https://www.behance.net/gallery/168303297/E-Commerce-for-Pharamcies",
-  },
-  {
-    id: "12",
-    image: "./img/projects/6124520.jpg",
-    nameProject: "Medicare e_commerce",
-    category: "identification",
-    // link: "https://www.behance.net/gallery/168303297/E-Commerce-for-Pharamcies",
-  },
-  {
-    id: "13",
-    image: "./img/projects/cover.jpg",
-    nameProject: "Modern Dashboard",
-    category: "Ui/Ux",
-    link: "https://www.behance.net/gallery/183844719/Modern-Dashboard",
+    link: "https://pustok.surge.sh/",
   },
 ];
 
